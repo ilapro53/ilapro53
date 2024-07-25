@@ -34,6 +34,12 @@
 
 #### Хорошо
 
-| 1             | 2             | 3     |
-| ------------- | ------------- | ----- |
-| ЯП            | 0             | 0     |
+<table>
+  <tr>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/python-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/pandas-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/sklearn-logo.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/matplotlib-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/seaborn-icon.svg" height="40" width="40"/></td>
+  </tr>
+</table>
