@@ -30,16 +30,36 @@
 
 <br>
 
-### Навыки, знания, технологии 💪
+### Инструменты, технологии ⚙️
 
 #### Хорошо
 
 <table>
   <tr>
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/python-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/jupyter-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/numpy-icon.svg" height="40" width="40"/></td>
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/pandas-icon.svg" height="40" width="40"/></td>
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/sklearn-logo.svg" height="40" width="40"/></td>
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/matplotlib-icon.svg" height="40" width="40"/></td>
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/seaborn-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/git-icon.svg" height="40" width="40"/></td>
+  </tr>
+</table>
+
+#### Нужно вспомнить / больше опыта 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/tensorflow-icon.svg" height="40" width="40"/>
+      <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/keras-icon.svg" height="40" width="40"/>
+    </td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/spark-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/airflow-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/grafana-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/docker-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/mongodb-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/postgresql-icon.svg" height="40" width="40"/></td>
   </tr>
 </table>
