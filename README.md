@@ -10,7 +10,7 @@
 - 🙋‍♂️ **Пироженко Илья Олегович**
 - 🎈 2003 г.
 - 📍 **Москва, Московская область**
-- 🎓 Студент **бакалавриата РАНХиГС** направления **"Data Science & Machine Learning"** _(По программе [Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))_
+- 🎓 Студент **бакалавриата РАНХиГС** направления **"Data Science & Machine Learning"** до 2026 г. _(По программе [Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))_
 - 💼 Без **реального** опыта
 
 <br>
