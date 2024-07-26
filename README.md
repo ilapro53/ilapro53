@@ -1,9 +1,11 @@
 ## Привет 👋
 
-### Обо мне ℹ️
+### Ссылки 🔗
 
 <a href="https://github.com/ilapro53"><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/github-mark-white.svg" height="30"/></a> <nobr>
 <a href="https://www.kaggle.com/ilapro53"><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/kaggle-icon.svg" height="30"/></a> <nobr>
+
+### Обо мне ℹ️
 
 - 🙋‍♂️ **Пироженко Илья Олегович**
 - 🎈 2003 г.
@@ -65,8 +67,10 @@
   </tr>
 </table>
 
+<br>
+
 ### Также...
 
 Использую [Obsidian](https://obsidian.md/) для хранаеия своих знаний.
 
-![](https://www.dropbox.com/scl/fi/mavbdz40jlxtrj2rchyob/Obsidian_fBlpnDxwOz.gif?rlkey=6qfdsmo4jqlz6eytrc8k6wnuz&st=47t006kk&dl=1)
+https://github.com/user-attachments/assets/08ae6ff2-7fe7-4953-aaa1-4f456bb62453
