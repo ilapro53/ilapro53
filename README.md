@@ -75,6 +75,8 @@
   - https://www.kaggle.com/code/ilapro53/5dfc1-vgg-face-py3-6-6-training (обучение модели)
   - https://www.kaggle.com/code/ilapro53/3n4dr-vgg-face-py3-6-6-submit-kaggle (сабмит)
   - https://www.kaggle.com/code/ilapro53/766e9-sb-project-tests (эксперименты)
+- Работа 2. Создание веб-сервера для инференса обученной модели (2024):
+  - https://github.com/ilapro53/SB-6sm-ML-8_5
 
 <br>
 
