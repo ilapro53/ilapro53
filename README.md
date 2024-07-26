@@ -2,9 +2,10 @@
 
 ### Обо мне ℹ️
 
-<br>
+<a href="https://github.com/ilapro53"><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/github-mark-white.svg" height="30"/></a> <nobr>
+<a href="https://www.kaggle.com/ilapro53"><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/kaggle-icon.svg" height="30"/></a> <nobr>
 
-- 🙋‍♂️ **Пироженко Илья Олегович** [@ilapro53](https://github.com/ilapro53)
+- 🙋‍♂️ **Пироженко Илья Олегович**
 - 🎈 2003 г.
 - 📍 **Москва, Московская область**
 - 🎓 Студент **бакалавриата РАНХиГС** направления **"Data Science & Machine Learning"** _(По программе [Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))_
@@ -63,3 +64,9 @@
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/postgresql-icon.svg" height="40" width="40"/></td>
   </tr>
 </table>
+
+### Также...
+
+Использую [Obsidian](https://obsidian.md/) для хранаеия своих знаний.
+
+![](https://www.dropbox.com/scl/fi/mavbdz40jlxtrj2rchyob/Obsidian_fBlpnDxwOz.gif?rlkey=6qfdsmo4jqlz6eytrc8k6wnuz&st=47t006kk&dl=1)
