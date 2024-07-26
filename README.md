@@ -74,3 +74,12 @@
 Использую [Obsidian](https://obsidian.md/) для хранаеия своих знаний.
 
 https://github.com/user-attachments/assets/08ae6ff2-7fe7-4953-aaa1-4f456bb62453
+
+<br>
+
+### Примеры работ 🖼
+
+- Работа 1. Распознание эимоций по фото:
+  - https://www.kaggle.com/code/ilapro53/5dfc1-vgg-face-py3-6-6-training (обучение модели)
+  - https://www.kaggle.com/code/ilapro53/3n4dr-vgg-face-py3-6-6-submit-kaggle (сабмит)
+  - https://www.kaggle.com/code/ilapro53/766e9-sb-project-tests (эксперименты)
