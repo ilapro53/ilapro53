@@ -77,6 +77,8 @@
   - https://www.kaggle.com/code/ilapro53/766e9-sb-project-tests (эксперименты)
 - Работа 2. Создание веб-сервера для инференса обученной модели (2024):
   - https://github.com/ilapro53/SB-6sm-ML-8_5
+- Работа 3. Цикл обработки табличных данных по методологии CRISP-DM (2022):
+  - https://github.com/ilapro53/CRISP-DM_Final/
 
 <br>
 
