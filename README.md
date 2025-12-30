@@ -9,7 +9,7 @@
 
 - 🙋‍♂️ **Пироженко Илья Олегович**
 - 🎈 2003 г.
-- 🎓 Студент **бакалавриата РАНХиГС** направления **"Data Science & Machine Learning"** до 2025 г. _(По программе [Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))_
+- 🎓 Выпскник **бакалавриата РАНХиГС** направления **"Data Science & Machine Learning"** _(По программе [Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))_
 
 <br>
 
@@ -18,9 +18,10 @@
 <br>
 
 Ищу **стажировку** или работу на позицию:
+
 - **Data Scientist**
 - **Data Analyst**
-- **Data Engineer**
+
 - **И другие, связанные с аналитикой**
 
 <br>
@@ -58,6 +59,7 @@
       <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/keras-icon.svg" height="40" width="40"/>
     </td>
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/spark-icon.svg" height="40" width="40"/></td>
+    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/dbt-icon.svg" height="40" width="40"/></td>
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/airflow-icon.svg" height="40" width="40"/></td>
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/grafana-icon.svg" height="40" width="40"/></td>
     <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/docker-icon.svg" height="40" width="40"/></td>
