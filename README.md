@@ -53,8 +53,11 @@
 |--------|----------|
 | [CRISP-DM_Final](https://github.com/ilapro53/CRISP-DM_Final) | Полный DS-цикл: EDA, предобработка, модели, оценка (предсказание цен авто) |
 | [EMNIST_clf](https://github.com/ilapro53/EMNIST_clf) | Классификация рукописных символов (RandomForest, 81% accuracy) |
-| [masters_TFCV_1](https://github.com/ilapro53/masters_TFCV_1); [masters_TFCV_2](https://github.com/ilapro53/masters_TFCV_2); [masters_TFCV_3](https://github.com/ilapro53/masters_TFCV_3) | Магистерские работы по Computer Vision |
-| [mag_iot_ml_HW_1](https://github.com/ilapro53/mag_iot_ml_HW_1); [mag_iot_ml_HW_2](https://github.com/ilapro53/mag_iot_ml_HW_2) | IoT + ML — домашние задания магистратуры |
+| [masters_TFCV_1](https://github.com/ilapro53/masters_TFCV_1) | Распознавание рукописных символов (Computer Vision) |
+| [masters_TFCV_2](https://github.com/ilapro53/masters_TFCV_2) | Классификация изображений (Computer Vision) |
+| [masters_TFCV_3](https://github.com/ilapro53/masters_TFCV_3) | Сегментация изображений (Computer Vision) |
+| [mag_iot_ml_HW_1](https://github.com/ilapro53/mag_iot_ml_HW_1) | IoT + ML — домашнее задание #1 |
+| [mag_iot_ml_HW_2](https://github.com/ilapro53/mag_iot_ml_HW_2) | IoT + ML — домашнее задание #2 |
 
 #### AI / LLM & Автоматизация
 
