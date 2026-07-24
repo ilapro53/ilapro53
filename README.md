@@ -85,10 +85,6 @@
 ### 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilapro53&layout=compact&hide=html,css" height="120"/>
-</p>
-
----
 
 ### 💬 Контакты
 
