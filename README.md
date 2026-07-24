@@ -39,9 +39,10 @@
 
 | Основные навыки | Вспомогательные навыки |
 |---|---|
-| **Data Engineering:** Python, Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka, Docker | **DevOps:** Docker, Linux, CI/CD, Git, Nginx |
+| **Data Engineering:** Python, Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka, Docker | **Web:** Flask, FastAPI, Nginx |
 | **ML / DS:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Matplotlib, Seaborn | **IoT:** MQTT, Home Assistant |
-| **AI / LLM:** OpenAI API, Claude API, AI-агенты, MCP | **Web:** Flask, FastAPI |
+| **AI / LLM:** OpenAI API, Claude API, AI-агенты, MCP | |
+| **DevOps:** Docker, Linux, CI/CD, Git | |
 
 ---
 
