@@ -33,16 +33,13 @@
 - 🤖 **AI-автоматизация**: AI-агенты, LLM, автоматизация рабочих процессов
 - 🌍 Ищу **стажировку / работу**: Москва, МО / удаленка
 
----
-
-### 🛠️ Стек технологий
-
-| Основные навыки | Вспомогательные навыки |
-|---|---|
-| **Data Engineering:** Python, Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka, Docker | **Web:** Flask, FastAPI, Nginx |
-| **ML / DS:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Matplotlib, Seaborn | **IoT:** MQTT, Home Assistant |
-| **AI / LLM:** OpenAI API, Claude API, AI-агенты, MCP | |
-| **DevOps:** Docker, Linux, CI/CD, Git | |
+| Фундаментальные навыки | Основные навыки | Вспомогательные навыки |
+|---|---|---|
+| **Python** | **Data Engineering:** Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka | **Web:** Flask, FastAPI, Nginx |
+| **SQL** | **ML / DS:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Matplotlib, Seaborn | **Big Data:** Hadoop, Hive |
+| **Git / GitHub** | **AI / LLM:** OpenAI API, Claude API, MCP, AI-агенты | **IoT:** MQTT, Home Assistant |
+| **Linux** | **DevOps:** Docker, CI/CD | **Tools:** Grafana, Obsidian, Kaggle |
+| **Docker** | | |
 
 ---
 
