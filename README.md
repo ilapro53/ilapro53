@@ -54,7 +54,11 @@
 |--------|----------|
 | [code_vm](https://github.com/ilapro53/code_vm) | Docker-окружение для AI-агентов: Dockerfile, compose, скрипты оркестрации |
 | [fns_blockings](https://github.com/ilapro53/fns_blockings) | Мониторинг блокировок ФНС: Telegram-бот, Docker, FNS API и Flask-админка |
-| [Examples_DE_Sber_2025](https://github.com/ilapro53/Examples_DE_Sber_2025) | Примеры работ со стажировки в **Сбере** (Data Engineering) |
+| [Examples_DE_Sber_2025/AAA_IncrementalSCD2](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/AAA_IncrementalSCD2) | Инкрементальная загрузка SCD2 (SQL, ETL) |
+| [Examples_DE_Sber_2025/A_DmartLoading](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/A_DmartLoading) | Загрузка витрины данных (SQL) |
+| [Examples_DE_Sber_2025/BB_psycopg2_excel2postgres](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/BB_psycopg2_excel2postgres) | Загрузка Excel в PostgreSQL (Python, psycopg2) |
+| [Examples_DE_Sber_2025/B_SparkTesting](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/B_SparkTesting) | Spark-обработка данных (PySpark) |
+| [Examples_DE_Sber_2025/C_HiveQL_and_YARN_Testing](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/C_HiveQL_and_YARN_Testing) | HiveQL и YARN (Big Data) |
 | [Examples](https://github.com/ilapro53/Examples) | Примеры работ: DS, ML, Data Engineering (включая DevOps) |
 | [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: MQTT, Home Assistant, Python-аналитика и Docker |
 
