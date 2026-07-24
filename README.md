@@ -45,7 +45,7 @@
 
 ### 🚀 Проекты
 
-#### Data Engineering и Инфраструктура
+#### Data Engineering / DevOps / MLOps
 
 | Проект | Описание |
 |--------|----------|
