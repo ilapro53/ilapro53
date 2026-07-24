@@ -71,6 +71,42 @@
 
 ---
 
+### 🚀 Проекты
+
+#### Data Engineering & Инфраструктура
+
+| Проект | Описание |
+|--------|----------|
+| [code_vm](https://github.com/ilapro53/code_vm) | Docker-окружение для AI-агентов: Dockerfile, compose, скрипты оркестрации |
+| [fns_blockings](https://github.com/ilapro53/fns_blockings) | Мониторинг блокировок ФНС: Telegram-бот, Docker, FNS API и Flask-админка |
+| [Examples_DE_Sber_2025](https://github.com/ilapro53/Examples_DE_Sber_2025) | Примеры работ со стажировки в **Сбере** (Data Engineering) |
+| [Examples](https://github.com/ilapro53/Examples) | Примеры работ: DS, ML, Data Engineering (включая DevOps) |
+| [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: MQTT и Home Assistant и Python-аналитика, Docker |
+
+#### Data Science & ML
+
+| Проект | Описание |
+|--------|----------|
+| [CRISP-DM_Final](https://github.com/ilapro53/CRISP-DM_Final) | Полный DS-цикл: EDA, предобработка, модели, оценка (предсказание цен авто) |
+| [EMNIST_clf](https://github.com/ilapro53/EMNIST_clf) | Классификация рукописных символов (RandomForest, 81% accuracy) |
+| [masters_TFCV_1](https://github.com/ilapro53/masters_TFCV_1) | Распознавание рукописных символов (Computer Vision) |
+| [masters_TFCV_2](https://github.com/ilapro53/masters_TFCV_2) | Классификация изображений (Computer Vision) |
+| [masters_TFCV_3](https://github.com/ilapro53/masters_TFCV_3) | Сегментация изображений (Computer Vision) |
+| [mag_iot_ml_HW_1](https://github.com/ilapro53/mag_iot_ml_HW_1) | IoT и ML - домашнее задание #1 |
+| [mag_iot_ml_HW_2](https://github.com/ilapro53/mag_iot_ml_HW_2) | IoT и ML - домашнее задание #2 |
+
+#### AI / LLM & Автоматизация
+
+| Проект | Описание |
+|--------|----------|
+| [llm_stats_parse](https://github.com/ilapro53/llm_stats_parse) | Парсер рейтинга 300+ AI-моделей с llm-stats.com: парсинг, нормализация, аналитика |
+| [claude_cowork_export](https://github.com/ilapro53/claude_cowork_export) | CLI-утилита для бэкапа/экспорта чатов Claude Cowork |
+| [llms_public](https://github.com/ilapro53/llms_public) | Коллекция AI-ресурсов и кастомных скиллов для AI-агентов |
+| [PsychoBotTG_copy](https://github.com/ilapro53/PsychoBotTG_copy) | Telegram-бот с веб-интерфейсом |
+| [skillbox_group_project1](https://github.com/ilapro53/skillbox_group_project1) | Групповой проект Skillbox |
+
+---
+
 ### 🛠️ Стек технологий
 
 **Data Engineering:** Python, Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka, Docker  
