@@ -1,4 +1,4 @@
-<!-- GitHub Profile README — ilapro53 -->
+<!-- GitHub Profile README - ilapro53 -->
 
 <p align="center">
   <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/python-icon.svg" height="40"/>
@@ -26,11 +26,11 @@
 
 ### 🧑‍💻 Обо мне
 
-- 🎓 **Выпускник бакалавриата** РАНХиГС — **Data Science & Machine Learning** ([Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))
-- 🎓 **Студент магистратуры** — **Data Engineering**
-- 🔧 Основной опыт — **Data Engineering**: пайплайны, ETL, MLOps, инфраструктура данных
-- 📊 Второе направление — **Data Science**: ML-модели, анализ данных, визуализация
-- 🤖 Третье — **AI-автоматизация**: AI-агенты, LLM, автоматизация рабочих процессов
+- 🎓 **Выпускник бакалавриата** РАНХиГС - **Data Science & Machine Learning** ([Skillbox и РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))
+- 🎓 **Студент магистратуры** - **Data Engineering**
+- 🔧 Основной опыт - **Data Engineering**: пайплайны, ETL, MLOps, инфраструктура данных
+- 📊 Второе направление - **Data Science**: ML-модели, анализ данных, визуализация
+- 🤖 Третье - **AI-автоматизация**: AI-агенты, LLM, автоматизация рабочих процессов
 - 🌍 Ищу **стажировку / работу**: Москва / удалёнка
 
 ---
@@ -56,8 +56,8 @@
 | [masters_TFCV_1](https://github.com/ilapro53/masters_TFCV_1) | Распознавание рукописных символов (Computer Vision) |
 | [masters_TFCV_2](https://github.com/ilapro53/masters_TFCV_2) | Классификация изображений (Computer Vision) |
 | [masters_TFCV_3](https://github.com/ilapro53/masters_TFCV_3) | Сегментация изображений (Computer Vision) |
-| [mag_iot_ml_HW_1](https://github.com/ilapro53/mag_iot_ml_HW_1) | IoT + ML — домашнее задание #1 |
-| [mag_iot_ml_HW_2](https://github.com/ilapro53/mag_iot_ml_HW_2) | IoT + ML — домашнее задание #2 |
+| [mag_iot_ml_HW_1](https://github.com/ilapro53/mag_iot_ml_HW_1) | IoT и ML - домашнее задание #1 |
+| [mag_iot_ml_HW_2](https://github.com/ilapro53/mag_iot_ml_HW_2) | IoT и ML - домашнее задание #2 |
 
 #### AI / LLM & Автоматизация
 
