@@ -28,9 +28,9 @@
 
 - 🎓 **Выпускник бакалавриата** РАНХиГС - **Data Science & Machine Learning** ([Skillbox и РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))
 - 🎓 **Студент магистратуры** - **Data Engineering**
-- 🔧 Основной опыт - **Data Engineering**: пайплайны, ETL, MLOps, инфраструктура данных
-- 📊 Второе направление - **Data Science**: ML-модели, анализ данных, визуализация
-- 🤖 Третье - **AI-автоматизация**: AI-агенты, LLM, автоматизация рабочих процессов
+- 🔧 **Data Engineering**: пайплайны, ETL, MLOps, инфраструктура данных
+- 📊 **Data Science**: ML-модели, анализ данных, визуализация
+- 🤖 **AI-автоматизация**: AI-агенты, LLM, автоматизация рабочих процессов
 - 🌍 Ищу **стажировку / работу**: Москва, МО / удаленка
 
 ---
@@ -42,7 +42,7 @@
 **AI / LLM:** OpenAI API, Claude API, AI-агенты, MCP  
 **DevOps:** Docker, Linux, CI/CD, Git, Nginx  
 **IoT:** MQTT, Home Assistant  
-**Web:** Flask, FastAPI, HTML/CSS, JS
+**Web:** Flask, FastAPI
 
 ---
 
