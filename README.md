@@ -35,7 +35,7 @@
 
 | Фундаментальные навыки | Основные навыки | Вспомогательные навыки |
 |---|---|---|
-| - **Python** <br> - **SQL** <br> - **Git / GitHub** <br> - **Linux** <br> - **Docker** | **Data Engineering:** Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka, Airbyte, psycopg2 <br> **ML / DS:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Matplotlib, Seaborn <br> **AI / LLM:** OpenAI API, Claude API, MCP, Agent Skills, OpenClaw, LMStudio, OpenCode, Pi, Claude <br> **DevOps / MLOps:** Docker/Docker Compose, CI/CD, GitLab CI, Grafana, MinIO, MLflow | **Web:** Flask, FastAPI, Nginx <br> **Big Data:** Hadoop, Hive, HDFS, PySpark, YARN <br> **IoT:** MQTT, Home Assistant <br> **Tools/Прочее:** Obsidian, Excel |
+| - **Python** <br> - **SQL** <br> - **Git / GitHub** <br> - **Linux** <br> - **Docker** | - **Data Engineering:** Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka, Airbyte, psycopg2 <br> - **ML / DS:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Matplotlib, Seaborn <br> - **AI / LLM:** OpenAI API, Claude API, MCP, Agent Skills, OpenClaw, LMStudio, OpenCode, Pi, Claude <br> - **DevOps / MLOps:** Docker/Docker Compose, CI/CD, GitLab CI, Grafana, MinIO, MLflow | - **Web:** Flask, FastAPI, Nginx <br> - **Big Data:** Hadoop, Hive, HDFS, PySpark, YARN <br> - **IoT:** MQTT, Home Assistant <br> - **Tools/Прочее:** Obsidian, Excel |
 
 
 
