@@ -59,7 +59,8 @@
 | [Examples_DE_Sber_2025/BB_psycopg2_excel2postgres](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/BB_psycopg2_excel2postgres) | Загрузка Excel в PostgreSQL (Python, psycopg2) |
 | [Examples_DE_Sber_2025/B_SparkTesting](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/B_SparkTesting) | Spark-обработка данных (PySpark) |
 | [Examples_DE_Sber_2025/C_HiveQL_and_YARN_Testing](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/C_HiveQL_and_YARN_Testing) | HiveQL и YARN (Big Data) |
-| [Examples](https://github.com/ilapro53/Examples) | Примеры работ: DS, ML, Data Engineering (включая DevOps) |
+| [Examples/Data Science](https://github.com/ilapro53/Examples/tree/main/Data%20Science) | ML-модели, CV, анализ данных |
+| [Examples/DevOps и DataEngineering](https://github.com/ilapro53/Examples/tree/main/DevOps%20%26%20DataEngineering) | ETL-пайплайны, Docker, инференс-сервер |
 | [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: MQTT, Home Assistant, Python-аналитика и Docker |
 
 #### Data Science и ML
