@@ -11,7 +11,7 @@
 
 <h1 align="center">👋 Привет! Я Илья</h1>
 
-<h3 align="center">AI Engineer / ML-разработчик</h3>
+<h3 align="center">Data Engineer / ML Engineer / AI-автоматизация</h3>
 
 <p align="center">
   <a href="https://github.com/ilapro53/ilapro53">
@@ -26,62 +26,56 @@
 
 ### 🧑‍💻 Обо мне
 
-- 🎓 Бакалавр РАНХиГС по направлению **Data Science & Machine Learning** ([Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))
-- 🤖 Специализируюсь на **AI-агентах, LLM, Computer Vision**
-- 🔭 Ищу работу / стажировку: **AI Engineer, ML Engineer, Data Scientist**
-- 🌍 Москва / удалёнка
+- 🎓 **Выпускник бакалавриата** РАНХиГС — **Data Science & Machine Learning** ([Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))
+- 🎓 **Студент магистратуры** — **Data Engineering**
+- 🔧 Основной опыт — **Data Engineering**: пайплайны, ETL, MLOps, инфраструктура данных
+- 📊 Второе направление — **Data Science**: ML-модели, анализ данных, визуализация
+- 🤖 Третье — **AI-автоматизация**: AI-агенты, LLM, автоматизация рабочих процессов
+- 🌍 Ищу **стажировку / работу**: Москва / удалёнка
 
 ---
 
 ### 🚀 Проекты
 
-#### AI / LLM
+#### Data Engineering & Инфраструктура
 
 | Проект | Описание |
 |--------|----------|
-| [code_vm](https://github.com/ilapro53/code_vm) | Docker-окружение для AI-агентов (mimo, opencode, pi, openclaw) |
-| [llm_stats_parse](https://github.com/ilapro53/llm_stats_parse) | Парсер и анализ рейтинга 300+ AI-моделей с llm-stats.com |
-| [claude_cowork_export](https://github.com/ilapro53/claude_cowork_export) | CLI-утилита для бэкапа и экспорта чатов Claude Cowork |
-| [llms_public](https://github.com/ilapro53/llms_public) | Коллекция AI-ресурсов и кастомных скиллов для агентов |
-| [fns_blockings](https://github.com/ilapro53/fns_blockings) | Мониторинг блокировок ФНС через Telegram-бота (Docker, FNS API) |
-| [PsychoBotTG_copy](https://github.com/ilapro53/PsychoBotTG_copy) | Telegram-бот психологической поддержки с веб-интерфейсом |
-| [EMNIST_clf](https://github.com/ilapro53/EMNIST_clf) | Распознавание рукописных символов (RandomForest, 81% accuracy) |
+| [code_vm](https://github.com/ilapro53/code_vm) | Docker-окружение для AI-агентов: Dockerfile, compose, скрипты оркестрации |
+| [fns_blockings](https://github.com/ilapro53/fns_blockings) | Мониторинг блокировок ФНС: Telegram-бот + Docker + FNS API + Flask-админка |
+| [Examples_DE_Sber_2025](https://github.com/ilapro53/Examples_DE_Sber_2025) | Примеры работ со стажировки в **Сбере** (Data Engineering) |
+| [Examples](https://github.com/ilapro53/Examples) | Примеры работ: DS, ML, Data Engineering (+DevOps) |
+| [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: MQTT → Home Assistant → Python-аналитика, Docker |
 
-#### IoT / Data Engineering
+#### Data Science & ML
 
 | Проект | Описание |
 |--------|----------|
-| [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: эмуляция датчиков → MQTT → Home Assistant → ML-аналитика |
-| [Examples](https://github.com/ilapro53/Examples) | Примеры работ: DS, ML, Data Engineering |
-| [Examples_DE_Sber_2025](https://github.com/ilapro53/Examples_DE_Sber_2025) | Примеры работ со стажировки в Сбере |
+| [CRISP-DM_Final](https://github.com/ilapro53/CRISP-DM_Final) | Полный DS-цикл: EDA, предобработка, модели, оценка (предсказание цен авто) |
+| [EMNIST_clf](https://github.com/ilapro53/EMNIST_clf) | Классификация рукописных символов (RandomForest, 81% accuracy) |
+| [masters_TFCV_*](https://github.com/ilapro53/masters_TFCV_1) | Магистерские работы по Computer Vision |
+| [mag_iot_ml_HW_*](https://github.com/ilapro53/mag_iot_ml_HW_1) | IoT + ML — домашние задания магистратуры |
 
-#### Computer Vision (магистерские)
-
-| Проект | Описание |
-|--------|----------|
-| [masters_TFCV_1](https://github.com/ilapro53/masters_TFCV_1) | Computer Vision — магистерское задание #1 |
-| [masters_TFCV_2](https://github.com/ilapro53/masters_TFCV_2) | Computer Vision — магистерское задание #2 |
-| [masters_TFCV_3](https://github.com/ilapro53/masters_TFCV_3) | Computer Vision — магистерское задание #3 |
-| [mag_iot_ml_HW_1](https://github.com/ilapro53/mag_iot_ml_HW_1) | IoT + ML д/з #1 |
-| [mag_iot_ml_HW_2](https://github.com/ilapro53/mag_iot_ml_HW_2) | IoT + ML д/з #2 |
-
-#### Учебные проекты
+#### AI / LLM & Автоматизация
 
 | Проект | Описание |
 |--------|----------|
-| [CRISP-DM_Final](https://github.com/ilapro53/CRISP-DM_Final) | Предсказание цен автомобилей (DS-проект) |
+| [llm_stats_parse](https://github.com/ilapro53/llm_stats_parse) | Парсер рейтинга 300+ AI-моделей с llm-stats.com: парсинг, нормализация, аналитика |
+| [claude_cowork_export](https://github.com/ilapro53/claude_cowork_export) | CLI-утилита для бэкапа/экспорта чатов Claude Cowork |
+| [llms_public](https://github.com/ilapro53/llms_public) | Коллекция AI-ресурсов и кастомных скиллов для AI-агентов |
+| [PsychoBotTG_copy](https://github.com/ilapro53/PsychoBotTG_copy) | Telegram-бот с веб-интерфейсом |
 | [skillbox_group_project1](https://github.com/ilapro53/skillbox_group_project1) | Групповой проект Skillbox |
 
 ---
 
 ### 🛠️ Стек технологий
 
-**ML / DS:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter  
-**AI / LLM:** OpenAI API, Claude API, Docker-агенты, MCP  
-**Data Engineering:** Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka  
+**Data Engineering:** Python, Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka, Docker  
+**ML / DS:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Matplotlib, Seaborn  
+**AI / LLM:** OpenAI API, Claude API, AI-агенты, MCP  
 **DevOps:** Docker, Linux, CI/CD, Git, Nginx  
-**IoT:** MQTT, Home Assistant, эмуляция сенсоров  
-**Web:** Flask, FastAPI, HTML/CSS, JavaScript
+**IoT:** MQTT, Home Assistant  
+**Web:** Flask, FastAPI, HTML/CSS, JS
 
 ---
 
