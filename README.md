@@ -2,11 +2,13 @@
 
 <p align="center">
   <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/python-icon.svg" height="40"/>
-  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/jupyter-icon.svg" height="40"/>
-  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/sklearn-logo.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/spark-icon.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/airflow-icon.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/dbt-icon.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/postgresql-icon.svg" height="40"/>
   <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/tensorflow-icon.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/sklearn-logo.svg" height="40"/>
   <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/docker-icon.svg" height="40"/>
-  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/git-icon.svg" height="40"/>
 </p>
 
 <h1 align="center">👋 Привет! Я Илья</h1>
