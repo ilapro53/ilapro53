@@ -65,8 +65,8 @@
 | [Examples/A_Table__ObesityRisk](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_Table__ObesityRisk_Hyperopt) | Предсказание риска ожирения (Hyperopt) |
 | [Examples/BB_NLP__BoW_Similarity](https://github.com/ilapro53/Examples/tree/main/Data%20Science/BB_NLP__BoW_SimilarityMatrix) | BoW и матрица схожести (NLP) |
 | [Examples/A_InferenceServerFlask](https://github.com/ilapro53/Examples/tree/main/DevOps%20%26%20DataEngineering/A_InferenceServerFlask) | Инференс-сервер на Flask (DevOps) |
-| [Examples_DE_Sber_2025/*](https://github.com/ilapro53/Examples_DE_Sber_2025) | Прочее: Spark, Hive (B_, C_) |
-| [Examples/*](https://github.com/ilapro53/Examples) | Прочее: ChatBot, Cohort, EDA, PySpark (B_, C_) |
+| [Examples_DE_Sber_2025/*](https://github.com/ilapro53/Examples_DE_Sber_2025) | Прочее: Spark, Hive |
+| [Examples/*](https://github.com/ilapro53/Examples) | Прочее: ChatBot, Cohort, EDA, PySpark |
 | [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: MQTT, Home Assistant, Python-аналитика и Docker |
 
 #### Data Science и ML
