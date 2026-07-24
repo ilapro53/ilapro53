@@ -54,8 +54,17 @@
 |--------|----------|
 | [code_vm](https://github.com/ilapro53/code_vm) | Docker-окружение для AI-агентов: Dockerfile, compose, скрипты оркестрации |
 | [fns_blockings](https://github.com/ilapro53/fns_blockings) | Мониторинг блокировок ФНС: Telegram-бот, Docker, FNS API и Flask-админка |
-| [Examples_DE_Sber_2025](https://github.com/ilapro53/Examples_DE_Sber_2025) | Примеры работ со стажировки в Сбере (DE: SCD2, Spark, Hive, ETL) |
-| [Examples](https://github.com/ilapro53/Examples) | Примеры работ: ML, CV, NLP, DevOps (учебные проекты) |
+| [Examples_DE_Sber_2025/AAA_IncrementalSCD2](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/AAA_IncrementalSCD2) | Инкрементальная загрузка SCD2 (SQL, ETL) |
+| [Examples_DE_Sber_2025/A_DmartLoading](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/A_DmartLoading) | Загрузка витрины данных (SQL) |
+| [Examples/AA_CV__EmotionDetection](https://github.com/ilapro53/Examples/tree/main/Data%20Science/AA_CV__EmotionDetection) | Распознавание эмоций на фото (CV, fine-tuning) |
+| [Examples/A_CV__Mnist_Server](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_CV___Mnist_Server) | Инференс-сервер MNIST (Flask, Docker) |
+| [Examples/A_NLP__BERT_GPT2](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_NLP__BERT_GPT2) | Сравнение BERT и GPT-2 (NLP) |
+| [Examples/A_NLP__RNN_Word2Vec](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_NLP__PyTorch_TF_RNN_Word2VecEmb) | RNN с Word2Vec embeddings (PyTorch) |
+| [Examples/A_Table__LightAutoML](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_Table__LightAutoML_and_FeatureEngeneering) | AutoML и feature engineering |
+| [Examples/A_Table__ObesityRisk](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_Table__ObesityRisk_Hyperopt) | Предсказание риска ожирения (Hyperopt) |
+| [Examples/A_InferenceServerFlask](https://github.com/ilapro53/Examples/tree/main/DevOps%20%26%20DataEngineering/A_InferenceServerFlask) | Инференс-сервер на Flask (DevOps) |
+| [Examples_DE_Sber_2025/*](https://github.com/ilapro53/Examples_DE_Sber_2025) | Прочее: Spark, Hive, ETL из Excel (см. BB_, B_, C_) |
+| [Examples/*](https://github.com/ilapro53/Examples) | Прочее: BoW, ChatBot, Cohort Analysis, EDA, PySpark (см. BB_, B_, C_) |
 | [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: MQTT, Home Assistant, Python-аналитика и Docker |
 
 #### Data Science и ML
