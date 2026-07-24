@@ -31,7 +31,7 @@
 - 🔧 Основной опыт - **Data Engineering**: пайплайны, ETL, MLOps, инфраструктура данных
 - 📊 Второе направление - **Data Science**: ML-модели, анализ данных, визуализация
 - 🤖 Третье - **AI-автоматизация**: AI-агенты, LLM, автоматизация рабочих процессов
-- 🌍 Ищу **стажировку / работу**: Москва / удалёнка
+- 🌍 Ищу **стажировку / работу**: Москва / удаленка
 
 ---
 
@@ -42,10 +42,10 @@
 | Проект | Описание |
 |--------|----------|
 | [code_vm](https://github.com/ilapro53/code_vm) | Docker-окружение для AI-агентов: Dockerfile, compose, скрипты оркестрации |
-| [fns_blockings](https://github.com/ilapro53/fns_blockings) | Мониторинг блокировок ФНС: Telegram-бот + Docker + FNS API + Flask-админка |
+| [fns_blockings](https://github.com/ilapro53/fns_blockings) | Мониторинг блокировок ФНС: Telegram-бот, Docker, FNS API и Flask-админка |
 | [Examples_DE_Sber_2025](https://github.com/ilapro53/Examples_DE_Sber_2025) | Примеры работ со стажировки в **Сбере** (Data Engineering) |
-| [Examples](https://github.com/ilapro53/Examples) | Примеры работ: DS, ML, Data Engineering (+DevOps) |
-| [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: MQTT → Home Assistant → Python-аналитика, Docker |
+| [Examples](https://github.com/ilapro53/Examples) | Примеры работ: DS, ML, Data Engineering (включая DevOps) |
+| [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: MQTT и Home Assistant и Python-аналитика, Docker |
 
 #### Data Science & ML
 
@@ -90,7 +90,7 @@
 
 - 📧 **Email:** [i-pirozhenko@outlook.com](mailto:i-pirozhenko@outlook.com)
 - 💬 **Telegram:** [@i_pirozhenko](https://t.me/i_pirozhenko)
-- 🌍 **Локация:** Москва, МО / удалёнка
+- 🌍 **Локация:** Москва, МО / удаленка
 
 ---
 
