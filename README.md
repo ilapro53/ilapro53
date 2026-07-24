@@ -36,10 +36,12 @@
 | Фундаментальные навыки | Основные навыки | Вспомогательные навыки |
 |---|---|---|
 | **Python** | **Data Engineering:** Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka | **Web:** Flask, FastAPI, Nginx |
-| **SQL** | **ML / DS:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Matplotlib, Seaborn | **Big Data:** Hadoop, Hive |
+| **SQL** | **ML / DS:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Matplotlib, Seaborn | **Big Data:** Hadoop, Hive, HDFS, PySpark, YARN |
 | **Git / GitHub** | **AI / LLM:** OpenAI API, Claude API, MCP, AI-агенты | **IoT:** MQTT, Home Assistant |
-| **Linux** | **DevOps:** Docker, CI/CD | **Tools:** Grafana, Obsidian, Kaggle |
-| **Docker** | | |
+| **Linux** | **DevOps:** Docker, CI/CD | **Tools:** Grafana, Obsidian, Kaggle, psycopg2 |
+| **Docker** | | **Другое:** OpenClaw, LMStudio, OpenCode, Airbyte, Excel |
+
+
 
 ---
 
