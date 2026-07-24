@@ -59,8 +59,22 @@
 | [Examples_DE_Sber_2025/BB_psycopg2_excel2postgres](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/BB_psycopg2_excel2postgres) | Загрузка Excel в PostgreSQL (Python, psycopg2) |
 | [Examples_DE_Sber_2025/B_SparkTesting](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/B_SparkTesting) | Spark-обработка данных (PySpark) |
 | [Examples_DE_Sber_2025/C_HiveQL_and_YARN_Testing](https://github.com/ilapro53/Examples_DE_Sber_2025/tree/main/C_HiveQL_and_YARN_Testing) | HiveQL и YARN (Big Data) |
-| [Examples/Data Science](https://github.com/ilapro53/Examples/tree/main/Data%20Science) | ML-модели, CV, анализ данных |
-| [Examples/DevOps и DataEngineering](https://github.com/ilapro53/Examples/tree/main/DevOps%20%26%20DataEngineering) | ETL-пайплайны, Docker, инференс-сервер |
+| [Examples/AA_CV__EmotionDetection](https://github.com/ilapro53/Examples/tree/main/Data%20Science/AA_CV__EmotionDetection) | Распознавание эмоций на фото (CV, fine-tuning) |
+| [Examples/A_CV__Mnist_Server](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_CV___Mnist_Server) | Инференс-сервер MNIST (Flask, Docker) |
+| [Examples/A_NLP__BERT_GPT2](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_NLP__BERT_GPT2) | Сравнение BERT и GPT-2 (NLP) |
+| [Examples/A_NLP__RNN_Word2Vec](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_NLP__PyTorch_TF_RNN_Word2VecEmb) | RNN с Word2Vec embeddings (PyTorch) |
+| [Examples/A_Table__LightAutoML](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_Table__LightAutoML_and_FeatureEngeneering) | AutoML и feature engineering |
+| [Examples/A_Table__ObesityRisk](https://github.com/ilapro53/Examples/tree/main/Data%20Science/A_Table__ObesityRisk_Hyperopt) | Предсказание риска ожирения (Hyperopt) |
+| [Examples/BB_NLP__BoW_Similarity](https://github.com/ilapro53/Examples/tree/main/Data%20Science/BB_NLP__BoW_SimilarityMatrix) | BoW и матрица схожести (NLP) |
+| [Examples/B_CV__Mnist_Keras](https://github.com/ilapro53/Examples/tree/main/Data%20Science/B_CV__Mnist_Keras) | MNIST классификация (Keras) |
+| [Examples/B_NLP__EncoderDecoder_ChatBot](https://github.com/ilapro53/Examples/tree/main/Data%20Science/B_NLP__EncoderDecoder_ChatBot) | Чат-бот (Encoder-Decoder) |
+| [Examples/B_NLP__Word2Vec_Similarity](https://github.com/ilapro53/Examples/tree/main/Data%20Science/B_NLP__Word2Vec_Similarity_SkipGram) | Word2Vec, SkipGram, семантическая схожесть |
+| [Examples/B_Table__CohortAnalysis](https://github.com/ilapro53/Examples/tree/main/Data%20Science/B_Table__CohortAnalysis) | Когортный анализ |
+| [Examples/B_Table__EDA](https://github.com/ilapro53/Examples/tree/main/Data%20Science/B_Table__EDA) | Разведочный анализ данных |
+| [Examples/C_Table__DecisionTree](https://github.com/ilapro53/Examples/tree/main/Data%20Science/C_Table__DecisionTreeClassifierInspection_GridSearchCV) | Decision Tree, GridSearchCV |
+| [Examples/C_Table__MLBasics](https://github.com/ilapro53/Examples/tree/main/Data%20Science/C_Table__MLBasics_Smartphones) | Основы ML |
+| [Examples/A_InferenceServerFlask](https://github.com/ilapro53/Examples/tree/main/DevOps%20%26%20DataEngineering/A_InferenceServerFlask) | Инференс-сервер на Flask (DevOps) |
+| [Examples/C_PySpark_RDD](https://github.com/ilapro53/Examples/tree/main/DevOps%20%26%20DataEngineering/C_PySpark_RDD) | PySpark RDD, обработка текста |
 | [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: MQTT, Home Assistant, Python-аналитика и Docker |
 
 #### Data Science и ML
