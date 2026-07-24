@@ -90,6 +90,14 @@
 
 ---
 
+### 💬 Контакты
+
+- 📧 **Email:** [i-pirozhenko@outlook.com](mailto:i-pirozhenko@outlook.com)
+- 💬 **Telegram:** [@i_pirozhenko](https://t.me/i_pirozhenko)
+- 🌍 **Локация:** Москва, МО / удалёнка
+
+---
+
 <p align="center">
-  <i>Открыт к предложениям 🤝</i>
+  <i>Открыт к предложениям - пишите! 🤝</i>
 </p>
