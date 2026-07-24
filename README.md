@@ -1,91 +1,98 @@
-## Привет 👋
+<!-- GitHub Profile README — ilapro53 -->
 
-### Ссылки 🔗
+<p align="center">
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/python-icon.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/jupyter-icon.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/sklearn-logo.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/tensorflow-icon.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/docker-icon.svg" height="40"/>
+  <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/git-icon.svg" height="40"/>
+</p>
 
-<a href="https://github.com/ilapro53"><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/github-mark-white.svg" height="30"/></a> <nobr>
-<a href="https://www.kaggle.com/ilapro53"><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/kaggle-icon.svg" height="30"/></a> <nobr>
+<h1 align="center">👋 Привет! Я Илья</h1>
 
-### Обо мне ℹ️
+<h3 align="center">AI Engineer / ML-разработчик</h3>
 
-- 🙋‍♂️ **Пироженко Илья Олегович**
-- 🎈 2003 г.
-- 🎓 Выпскник **бакалавриата РАНХиГС** направления **"Data Science & Machine Learning"** _(По программе [Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))_
+<p align="center">
+  <a href="https://github.com/ilapro53/ilapro53">
+    <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/github-mark-white.svg" height="25"/>
+  </a>
+  <a href="https://www.kaggle.com/ilapro53">
+    <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/kaggle-icon.svg" height="25"/>
+  </a>
+</p>
 
-<br>
+---
 
-### Что ищу 🔍
+### 🧑‍💻 Обо мне
 
-<br>
+- 🎓 Бакалавр РАНХиГС по направлению **Data Science & Machine Learning** ([Skillbox + РАНХиГС](https://skillbox.ru/media/education/skillbox_i_rankhigs_otkryli_sovmestnyy_onlayn_bakalavriat/))
+- 🤖 Специализируюсь на **AI-агентах, LLM, Computer Vision**
+- 🔭 Ищу работу / стажировку: **AI Engineer, ML Engineer, Data Scientist**
+- 🌍 Москва / удалёнка
 
-Ищу **стажировку** или работу на позицию:
+---
 
-- **Data Scientist**
-- **Data Analyst**
+### 🚀 Проекты
 
-- **И другие, связанные с аналитикой**
+#### AI / LLM
 
-<br>
+| Проект | Описание |
+|--------|----------|
+| [code_vm](https://github.com/ilapro53/code_vm) | Docker-окружение для AI-агентов (mimo, opencode, pi, openclaw) |
+| [llm_stats_parse](https://github.com/ilapro53/llm_stats_parse) | Парсер и анализ рейтинга 300+ AI-моделей с llm-stats.com |
+| [claude_cowork_export](https://github.com/ilapro53/claude_cowork_export) | CLI-утилита для бэкапа и экспорта чатов Claude Cowork |
+| [llms_public](https://github.com/ilapro53/llms_public) | Коллекция AI-ресурсов и кастомных скиллов для агентов |
+| [fns_blockings](https://github.com/ilapro53/fns_blockings) | Мониторинг блокировок ФНС через Telegram-бота (Docker, FNS API) |
+| [PsychoBotTG_copy](https://github.com/ilapro53/PsychoBotTG_copy) | Telegram-бот психологической поддержки с веб-интерфейсом |
+| [EMNIST_clf](https://github.com/ilapro53/EMNIST_clf) | Распознавание рукописных символов (RandomForest, 81% accuracy) |
 
-Пожелания:
-- Аккредитованная IT-компания
-- Удаленная работа (но не обязательно)
-- Москва, Московская область
+#### IoT / Data Engineering
 
-<br>
+| Проект | Описание |
+|--------|----------|
+| [mag_iot_ml_final](https://github.com/ilapro53/mag_iot_ml_final) | IoT-ферма: эмуляция датчиков → MQTT → Home Assistant → ML-аналитика |
+| [Examples](https://github.com/ilapro53/Examples) | Примеры работ: DS, ML, Data Engineering |
+| [Examples_DE_Sber_2025](https://github.com/ilapro53/Examples_DE_Sber_2025) | Примеры работ со стажировки в Сбере |
 
-### Инструменты, технологии ⚙️
+#### Computer Vision (магистерские)
 
-#### Хорошо
+| Проект | Описание |
+|--------|----------|
+| [masters_TFCV_1](https://github.com/ilapro53/masters_TFCV_1) | Computer Vision — магистерское задание #1 |
+| [masters_TFCV_2](https://github.com/ilapro53/masters_TFCV_2) | Computer Vision — магистерское задание #2 |
+| [masters_TFCV_3](https://github.com/ilapro53/masters_TFCV_3) | Computer Vision — магистерское задание #3 |
+| [mag_iot_ml_HW_1](https://github.com/ilapro53/mag_iot_ml_HW_1) | IoT + ML д/з #1 |
+| [mag_iot_ml_HW_2](https://github.com/ilapro53/mag_iot_ml_HW_2) | IoT + ML д/з #2 |
 
-<table>
-  <tr>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/python-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/jupyter-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/numpy-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/pandas-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/sklearn-logo.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/matplotlib-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/seaborn-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/git-icon.svg" height="40" width="40"/></td>
-  </tr>
-</table>
+#### Учебные проекты
 
-#### Нужно больше опыта 
+| Проект | Описание |
+|--------|----------|
+| [CRISP-DM_Final](https://github.com/ilapro53/CRISP-DM_Final) | Предсказание цен автомобилей (DS-проект) |
+| [skillbox_group_project1](https://github.com/ilapro53/skillbox_group_project1) | Групповой проект Skillbox |
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/tensorflow-icon.svg" height="40" width="40"/>
-      <img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/keras-icon.svg" height="40" width="40"/>
-    </td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/spark-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/dbt-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/airflow-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/grafana-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/docker-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/mongodb-icon.svg" height="40" width="40"/></td>
-    <td><img src="https://github.com/ilapro53/ilapro53/blob/main/data/images/logos/postgresql-icon.svg" height="40" width="40"/></td>
-  </tr>
-</table>
+---
 
-<br>
+### 🛠️ Стек технологий
 
-### Примеры работ 🖼
+**ML / DS:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter  
+**AI / LLM:** OpenAI API, Claude API, Docker-агенты, MCP  
+**Data Engineering:** Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka  
+**DevOps:** Docker, Linux, CI/CD, Git, Nginx  
+**IoT:** MQTT, Home Assistant, эмуляция сенсоров  
+**Web:** Flask, FastAPI, HTML/CSS, JavaScript
 
-<br>
+---
 
-**Распознание эмоций по фото (2024):** https://www.kaggle.com/code/ilapro53/5dfc1-vgg-face-py3-6-6-training
-- _**Результат:** Была увеличена точность распознавания эмоций с 11% до 40%_
+### 📈 GitHub
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilapro53&layout=compact&hide=html,css" height="120"/>
+</p>
 
-**Предсказание ценовой категории Б/У автомобилей (2022):** https://github.com/ilapro53/CRISP-DM_Final
-- _**Результат:** Проведено исследование данных и достигнута точность предсказания 100%_
+---
 
-<br>
-
-**Создание веб-сервера для инференса обученной модели (2024):** https://github.com/ilapro53/SB-6sm-ML-8_5
-- _**Результат:** Модель для распознания рукописных имволов работает на сервере Flask и обрабатывает забросы пользователей_
-
-
-<br>
+<p align="center">
+  <i>Открыт к предложениям 🤝</i>
+</p>
