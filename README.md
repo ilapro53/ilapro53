@@ -38,7 +38,7 @@
 | **Python** | **Data Engineering:** Spark, Airflow, dbt, PostgreSQL, MongoDB, ClickHouse, Kafka, Airbyte | **Web:** Flask, FastAPI, Nginx |
 | **SQL** | **ML / DS:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Matplotlib, Seaborn | **Big Data:** Hadoop, Hive, HDFS, PySpark, YARN |
 | **Git / GitHub** | **AI / LLM:** OpenAI API, Claude API, MCP, Agent Skills, OpenClaw, LMStudio, OpenCode, Pi, Claude | **IoT:** MQTT, Home Assistant |
-| **Linux** | **DevOps:** Docker, CI/CD | **Tools:** Grafana, Obsidian, Kaggle, psycopg2 |
+| **Linux** | **DevOps:** Docker, CI/CD | **Tools/Прочее:** Grafana, Obsidian, Kaggle, psycopg2, MinIO, MLflow, GitLab CI, Docker Compose, Excel |
 | **Docker** | | |
 
 
